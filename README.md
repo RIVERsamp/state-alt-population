@@ -4,6 +4,7 @@
 const states = [
 {
 rank: 1,
+alt_rank: null,
 state: "California",
 region: "West",
 current_population: 39350000
@@ -13,6 +14,7 @@ alt_density: 297
 },
 {
 rank: 2,
+alt_rank: null,
 state: "Texas".
 region: "Southwest",
 current_population: 32110000
@@ -22,6 +24,7 @@ alt_density: 140
 },
 {
 rank: 3,
+alt_rank: 
 state: "New York",
 region: "Northeast",
 current_population: 20010000
