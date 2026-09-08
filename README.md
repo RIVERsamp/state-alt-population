@@ -3,185 +3,185 @@
 
 const states = [
 {
-rank: 1,
+alt_rank: 1,
 alt_rank: null,
 state: "California",
 region: "West",
-current_population: 39350000
-alt_population: 46200000
+current_population: 39_350_000
+alt_population: 46_341_000
 current_density: 254,
 alt_density: 297
 },
 {
-rank: 2,
+alt_rank: 2,
 alt_rank: null,
 state: "Texas".
 region: "Southwest",
-current_population: 32110000
-alt_population: 36575000
+current_population: 32_110_000
+alt_population: 36_800_000
 current_density: 123,
 alt_density: 140
 },
 {
-rank: 3,
+alt_rank: 3,
 alt_rank: 
 state: "New York",
 region: "Northeast",
-current_population: 20010000
-alt_population: 28910000
+current_population: 20_010_000
+alt_population: 29_100_000
 current_density: 425,
 alt_density: 626
 },
 {
-rank 4,
+alt_rank 4,
 state: "Florida",
 region: "Southeast",
-current_population: 23660000
-alt_population: 27636000
+current_population: 23_660_000
+alt_population: 27_840_000
 current_density: 441, 
 alt_density: 515
 },
 {
-rank 5,
+alt_rank 5,
 state: "Illinois",
 region: "Midwest",
-current_population: 12740000
-alt_population: 16072000
+current_population: 12_740_000
+alt_population: 16_240_000
 current_density: 229, 
 alt_density: 290
 },
 {
-rank 6,
+alt_rank 6,
 state: "Pennsylvania",
 region: "Northeast",
-current_population: 13080000,
-alt_population: 15771000,
+current_population: 13_080_000,
+alt_population: 15_951_000,
 current_density: 292, 
 alt_density: 353
 },
 {
-rank 7,
+alt_rank 7,
 state: "Ohio",
 region: "Midwest",
-current_population: 11950000,
-alt_population: 14021000,
+current_population: 11_950_000,
+alt_population: 14_188_000,
 current_density: 293, 
 alt_density: 343
 },
 {
-rank 8,
+alt_rank 8,
 state: "Georgia",
 region: "Southeast",
-current_population: 11410000,
-alt_population: 13510000,
+current_population: 11_410_000,
+alt_population: 13_685_000,
 current_density: 198, 
 alt_density: 235
 },
 {
-rank 9,
+alt_rank 9,
 state: "North Carolina",
 region: "Southeast",
-current_population: 11350000,
-alt_population: 13314000,
+current_population: 11_350_000,
+alt_population: 13_475_000,
 current_density: 229, 
 alt_density: 274
 },
 {
-rank 10,
+alt_rank 10,
 state: "Michigan",
 region: "Midwest",
-current_population: 10160000,
-alt_population: 12852000,
+current_population: 10_160_000,
+alt_population: 13_055_000,
 current_density: 180,
 alt_density: 227
 },
 {
-rank 11,
+alt_rank 11,
 state: "New Jersey",
 region: "Norhteast",
-current_population: 9600000,
-alt_population: 12215000,
+current_population: 9_600_000,
+alt_population: 12_362_000,
 current_density: 1306, 
 alt_density: 1661
 },
 {
-rank 12,
+alt_rank 12,
 state: "Virginia",
 region: "Southeast",
-current_population: 8950000,
-alt_population: 10577000,
+current_population: 8_950_000,
+alt_population: 10_745_000,
 current_density: 227, 
 alt_density: 268
 },
 {
-rank 13,
+alt_rank 13,
 state: "Arizona",
 region: "Southwest",
-current_population: 7700000,
-alt_population: 10269000,
+current_population: 7_700_000,
+alt_population: 10_488_000,
 current_density: 68, 
 alt_density: 90
 },
 {
-rank 14,
+alt_rank 14,
 state: "Washington",
 region: "West",
-current_population: 8080000,
-alt_population: 9380000,
+current_population: 8_080_000,
+alt_population: 9_711_000,
 current_density: 122,
 alt_density: 137
 },
 {
-rank 15,
+alt_rank 15,
 state: "Massachusetts",
 region: "Northeast",
-current_population: 7170000,
-alt_population: 8750000,
+current_population: 7_170_000,
+alt_population: 8_750_000,
 current_density: 919, 
 alt_density: 1122
 },
 {
-rank 16,
+alt_rank 16,
 state: "Tennessee",
 region: "Southeast",
-current_population: 7380000,
-alt_population: 8715000,
+current_population: 7_380_000,
+alt_population: 8_715_000,
 current_density: 179, 
 alt_density: 211
 },
 {
-rank 17,
+alt_rank 17,
 state: "Indiana",
 region: "Midwest",
-current_population: 7020000,
-alt_population: 8176000,
+current_population: 7_020_000,
+alt_population: 8_322_000,
 current_density: 196,
 alt_density: 228
 },
 {
-rank 18,
+alt_rank 18,
 state: "Colorado",
 region: "West",
-current_population: 6040000,
-alt_population: 7840000,
+current_population: 6_040_000,
+alt_population: 8_225_000,
 current_density: 58, 
 alt_density: 76 
 },
 {
-rank 19,
+alt_rank 19,
 state: "Missouri",
 region: "Midwest",
-current_population: 6300000,
-alt_population: 7700000,
+current_population: 6_300_000,
+alt_population: 7_876_000,
 current_density: 92, 
 alt_density: 112
 },
 {
-rank 20,
+alt_rank 20,
 state: "Maryland",
 region: "Northeast",
-current_population: 6290000,
-alt_population: 7616000,
+current_population: 6_290_000,
+alt_population: 7_616_000,
 current_density: 648,
 alt_density: 785
 },
