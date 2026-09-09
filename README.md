@@ -185,5 +185,51 @@ alt_population: 7_616_000,
 current_density: 648,
 alt_density: 785
 },
+{
+alt_rank 21,
+state: "Wisconsin",
+region: "Midwest",
+current_population: 5_990_000,
+alt_population: 7_532_000,
+current_density: 92,
+alt_density: 115
+},
+{
+alt_rank 22,
+state: "Minnesota",
+region: "Midwest",
+current_population: 5_870_000,
+alt_population: 7_224_000,
+current_density: 68,
+alt_density: 83
+},
+{
+alt_rank 23,
+state: "South Carolina",
+region: "Southeast",
+current_population: 5_660_000,
+alt_population: 7_105_000,
+current_density: 177,
+alt_density: 222
+},
+{
+alt_rank 24,
+state: "Louisiana",
+region: "Southeast",
+current_population: 4_630_000,
+alt_population: 6_700_000,
+current_density: 89,
+alt_density: 128
+},
+{
+alt_rank 25,
+state: "Alabama",
+region: "Southeast",
+current_population: 5_200_000,
+alt_population: 6_685_000,
+current_density: 99,
+alt_density: 128
+},
+
 
 ],
