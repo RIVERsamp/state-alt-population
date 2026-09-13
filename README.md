@@ -230,6 +230,51 @@ alt_population: 6_685_000,
 current_density: 99,
 alt_density: 128
 },
+{
+alt_rank 26,
+state: "Kentucky",
+region: "Southeast",
+current_population: 4_610_000,
+alt_population: 5_824_000,
+current_density: 114,
+alt_density: 144
+},
+{
+alt_rank 27,
+state: "Oregon",
+region: "West",
+current_population: 4_280_000,
+alt_population: 5_810_000,
+current_density: 43,
+alt_density: 59
+},
+{
+alt_rank 28,
+state: "Oklahoma",
+region: "Southwest",
+current_population: 4_130_000,
+alt_population: 5_740_000,
+current_density: 59,
+alt_density: 82
+},
+{
+alt_rank 29,
+state: "Utah",
+region: "West",
+current_population: 3_580_000,
+alt_population: 5_525_000,
+current_density: 42,
+alt_density: 65
+},
+{
+alt_rank 30,
+state: "Nevada",
+region: "West",
+current_population: 3_290_000,
+alt_population: 5_420_000,
+current_density: 30,
+alt_density: 49
+},
 
 
 ],
