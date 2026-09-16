@@ -275,6 +275,186 @@ alt_population: 5_420_000,
 current_density: 30,
 alt_density: 49
 },
+{
+alt_rank 31,
+state: "Iowa",
+region: "Midwest",
+current_population: 3_250_000,
+alt_population: 5_292_000,
+current_density: 58,
+alt_density: 94
+},
+{
+alt_rank 32,
+state: "Kansas",
+region: "Midwest",
+current_population: 3_000_000,
+alt_population: 5_185_000,
+current_density: 37,
+alt_density: 63
+},
+{
+alt_rank 33,
+state: "Connecticut",
+region: "Northeast",
+current_population: 3_710_000,
+alt_population: 4_725_000,
+current_density: 669,
+alt_density: 852
+},
+{
+alt_rank 34,
+state: "Arkansas",
+region: "Southeast",
+current_population: 3_140_000,
+alt_population: 4_487_000,
+current_density: 59,
+alt_density: 84
+},
+{
+alt_rank 35,
+state: "Mississippi",
+region: "Southeast",
+current_population: 2_960_000,
+alt_population: 4_466_000,
+current_density: 61,
+alt_density: 92
+},
+{
+alt_rank 36,
+state: "New Mexico",
+region: "Southwest",
+current_population: 2_130_000,
+alt_population: 4_385_000,
+current_density: 18,
+alt_density: 36
+},
+{
+alt_rank 37,
+state: "Nebraska",
+region: "Midwest",
+current_population: 2_030_000,
+alt_population: 4_041_000,
+current_density: 26,
+alt_density: 52
+},
+{
+alt_rank 38,
+state: "Idaho",
+region: "West",
+current_population: 2_030_000,
+alt_population: 4_025_000,
+current_density: 24,
+alt_density: 48
+},
+{
+alt_rank 39,
+state: "West Virginia",
+region: "Southeast",
+current_population: 1_770_000,
+alt_population: 3_640_000,
+current_density: 73,
+alt_density: 150
+},
+{
+alt_rank 40,
+state: "Montana",
+region: "West",
+current_population: 1_160_000,
+alt_population: 3_340_000,
+current_density: 8,
+alt_denisty: 23
+},
+{
+alt_rank 41,
+state: "South Dakota",
+region: "Midwest",
+current_population: 950_000,
+alt_population: 3_081_000,
+current_density: 12,
+alt_density: 40
+},
+{
+alt_rank 42,
+state: "North Dakota",
+region: "Midwest",
+current_population: 810_000,
+alt_population: 3_040_000,
+current_density: 11,
+alt_density: 43
+},
+{
+alt_rank 43,
+state: "Alaska",
+region: "West",
+current_population: 740_000,
+alt_population: 2_862_000,
+current_density: 1,
+alt_density: 4
+},
+{
+alt_rank 44,
+state: "Wyoming",
+region: "West",
+current_population: 600_000,
+alt_population: 2_772_000,
+current_density: 6,
+alt_density: 28
+},
+{
+alt_rank 45,
+state: "Maine",
+region: "Northeast",
+current_population: 1_430_000,
+alt_population: 2_678_000,
+current_density: 41,
+alt_density: 76
+},
+{
+alt_rank 46,
+state: "Hawaii",
+region: "West",
+current_population: 1_440_000,
+alt_population: 2_401_000,
+current_density: 132,
+alt_density: 220
+},
+{
+alt_rank 47,
+state: "New Hampshire",
+region: "Northeast",
+current_population: 1_430_000,
+alt_population: 2_240_000,
+current_density: 153,
+alt_density: 240
+},
+{
+alt_rank 48,
+state: "Delaware",
+region: "Northeast",
+current_population: 1_070_000,
+alt_population: 2_075_000,
+current_density: 430,
+alt_density: 834
+},
+{
+alt_rank 49,
+state: "Rhode Island",
+region: "Northeast",
+current_population: 1_120_000,
+alt_population: 1_890_000,
+current_density: 923,
+alt_density: 1,557
+},
+{
+alt_rank 50,
+state: "Vermont",
+region: "Northeast",
+current_population: 650_000,
+alt_population: 1_554_000,
+current_density: 68,
+alt_density: 162
+},
 
 
 ],
