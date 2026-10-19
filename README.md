@@ -1,5 +1,5 @@
 # state-alt-population
-# What populations of states could have been today if has kept up since incorperation.
+# What populations of States could have been today if they had kept up since the time they became a State.
 
 const states = [
 {
