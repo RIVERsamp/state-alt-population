@@ -8,7 +8,7 @@ alt_rank: null,
 state: "California",
 region: "West",
 current_population: 39_350_000
-alt_population: 46_341_000
+alt_population: 46_880_000
 current_density: 254,
 alt_density: 297
 },
@@ -18,7 +18,7 @@ alt_rank: null,
 state: "Texas".
 region: "Southwest",
 current_population: 32_110_000
-alt_population: 36_800_000
+alt_population: 37_200_000
 current_density: 123,
 alt_density: 140
 },
@@ -28,7 +28,7 @@ alt_rank:
 state: "New York",
 region: "Northeast",
 current_population: 20_010_000
-alt_population: 29_100_000
+alt_population: 29_655_000
 current_density: 425,
 alt_density: 626
 },
@@ -37,7 +37,7 @@ alt_rank 4,
 state: "Florida",
 region: "Southeast",
 current_population: 23_660_000
-alt_population: 27_840_000
+alt_population: 28_105_000
 current_density: 441, 
 alt_density: 515
 },
@@ -46,7 +46,7 @@ alt_rank 5,
 state: "Illinois",
 region: "Midwest",
 current_population: 12_740_000
-alt_population: 16_240_000
+alt_population: 16_471_000
 current_density: 229, 
 alt_density: 290
 },
@@ -55,7 +55,7 @@ alt_rank 6,
 state: "Pennsylvania",
 region: "Northeast",
 current_population: 13_080_000,
-alt_population: 15_951_000,
+alt_population: 16_300_000,
 current_density: 292, 
 alt_density: 353
 },
